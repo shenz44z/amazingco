@@ -1,0 +1,2 @@
+# amazingco
+Coding Challenge
