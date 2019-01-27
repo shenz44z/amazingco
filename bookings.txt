@@ -1,0 +1,20 @@
+
+ User shehbaz booked event(s) costing 880
+ User Ray booked event(s) costing 1320.0
+ User ixe booked event(s) costing 180.0
+ User nabeel booked event(s) costing 440
+ User kiki booked event(s) costing 1320.0
+ User random booked event(s) costing 1500
+ User hero booked event(s) costing 1320
+ User main booked event(s) costing 115.5
+ User tester booked event(s) costing 115.5
+ User newuser booked event(s) costing 115.5
+ User micro booked event(s) costing 528
+ User coco booked event(s) costing 1500
+ User choo booked event(s) costing 110.0
+ User testerx booked event(s) costing 110.0
+ User tester booked event(s) costing 990
+ User koko booked event(s) costing 280.5
+ User opie booked event(s) costing 561.0
+ User cycka booked event(s) costing 1320
+ User raymond davis booked event(s) costing 1500
